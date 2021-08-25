@@ -1,5 +1,10 @@
 # Popular movies, search for a movie
 
+Click here for [DEMO](https://sidhardha2705.github.io/search-movies/)
+
+![Capture](https://user-images.githubusercontent.com/36865844/130788007-744fb6ba-3166-4bd4-a508-3cf39c8cbded.PNG)
+
+
 This app implements https://tmdb.apps.quintero.io/ graphql API with [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html), [Apollo Client](https://www.apollographql.com/docs/react/).
 
 ## Feautures overview
