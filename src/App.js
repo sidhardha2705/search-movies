@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import SingleMovie from "./components/templates/single-movie";
 import HomePage from "./components/templates/homepage";
 import ViewedMovies from "./contexts/contexts";
